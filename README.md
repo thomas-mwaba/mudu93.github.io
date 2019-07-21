@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/mudu93/mudu93.github.io/ed
 
 
 
-[Link](url) and ![https://unsplash.com/photos/zwsHjakE_iI](src)
-```
+
 
 
