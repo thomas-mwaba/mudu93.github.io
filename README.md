@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-# [About](link)  |   [Projects]()   |[Blog]()
+# [About](link)  |   [Projects]()   |   [Blog]()   |   [Contacts]()
 
 coming soon!
 
