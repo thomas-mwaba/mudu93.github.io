@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## _Welcome to GitHub Pages_
 
-# [About](link)  |   [Projects]()   |   [Blog]()   |   [Contacts]()
+# _[About](link)_  |   _[Projects]()_   |   _[Blog]()_   |   _[Contacts]()_
 
-coming soon!
+_coming soon!_
 
 ![grad2018](SITA0846.jpg)
 
